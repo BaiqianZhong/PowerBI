@@ -7,6 +7,6 @@ Project Focus: Housing Prices and AirBnb in Calgary in relation to Oil Prices
 3) PowerBI for analytics/DaX
 4) Knime machine Learning
 
-
+http://www.creb.com/Housing_Statistics/
 
 
